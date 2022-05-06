@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/masjidblur"
+    tools:context=".BacaanSholat">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/niat"
+        android:layout_gravity="center"
+        android:layout_marginTop="97dp"
+        android:layout_marginBottom="6dp"
+        android:onClick="niat"
+        android:textSize="15sp"
+        android:inputType="textCapWords"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/do_a_iftitah"
+        android:layout_gravity="center"
+        android:layout_marginBottom="6dp"
+        android:onClick="doaIftitah"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/rukuk"
+        android:layout_gravity="center"
+        android:layout_marginBottom="6dp"
+        android:onClick="rukuk"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/i_tidal"
+        android:layout_gravity="center"
+        android:layout_marginBottom="6dp"
+        android:onClick="itidal"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/do_a_qunut"
+        android:layout_gravity="center"
+        android:layout_marginBottom="6dp"
+        android:onClick="qunut"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/sujud"
+        android:layout_gravity="center"
+        android:layout_marginBottom="6dp"
+        android:onClick="sujud"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/duduk_tasyahud_awal"
+        android:layout_gravity="center"
+        android:layout_marginBottom="6dp"
+        android:onClick="tasyahudawal"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/duduk_tasyahud_akhir"
+        android:layout_gravity="center"
+        android:layout_marginBottom="6dp"
+        android:onClick="tasyahudakhir"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:text="@string/salam"
+        android:layout_gravity="center"
+        android:onClick="salam"
+        android:inputType="textCapWords"
+        android:textSize="15sp"
+        android:background="@drawable/tombol_bulat"
+        tools:ignore="TextViewEdits" />
+</LinearLayout>

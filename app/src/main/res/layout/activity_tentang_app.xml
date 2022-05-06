@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tentangApp">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tentang_aplikasi"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView56"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:text="@string/puji_dan_syukur_penulis_panjatkan_kehadapan_allah_swt_karena_atas_berkat_rahmatnya_saya_dapat_menyelesaikan_uts_ini_uts_yang_berjudul_aplikasi_bacaan_sholat_ini_disusun_sebagai_syarat_untuk_memenuhi_sebagian_tugas_uts_pada_jurusan_sistem_informasi_fakultas_teknik_universitas_nahdlatul_ulama_saya_menyadari_bahwa_tanpa_bantuan_dan_bimbingan_dari_bapak_dosen_tugas_uts_ini_tidak_akan_mungkin_terwujud_sehubungan_dengan_hal_tersebut_pada_kesempatan_ini_saya_menyampaikan_ucapan_terima_kasih_kepada_bapak_addin_gama_bertaqwa_s_t_m_t_selaku_dosen_pembimbing_yang_telah_memberikan_banyak_petunjuk_dorongan_dan_bimbingan_selama_pembuatan_tugas_uts_ini_tujuan_pembuatan_aplikasi_ini_adalah_memudahkan_anak_anak_atau_remaja_untuk_belajar_bagaimana_bacaan_bacaan_yang_ada_didalam_sholat_melalui_handphone_sebagaimana_yang_kita_tau_bahwa_anak_zaman_sekarang_dari_umur_5_tahun_sudah_bisa_mengoperasikan_handphone_oleh_sebab_itu_kita_menyebarkan_ilmu_ilmu_agama_khususnya_bacaan_sholat_karena_kita_tau_bahwa_sholat_adalah_tiang_agama_jadi_kita_bisa_memudahkan_mereka_untuk_belajar"
+        android:layout_marginTop="30dp"
+        android:justificationMode="inter_word"
+        android:textSize="13sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

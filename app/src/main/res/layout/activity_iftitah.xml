@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Iftitah">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:text="@string/doa_iftitah"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="190dp"
+        android:justificationMode="inter_word"
+        android:text="@string/doa_iftitah_disunnahkan_untuk_dibaca_ketika_mengerjakan_shalat_fardu_ataupun_shalat_sunah_doa_ini_tersedia_dalam_beberapa_versi_dengan_panjang_yang_beragam_rasulullah_saw_bersabda_dalam_sebuah_hadis_shalat_seseorang_tidak_sempurna_hingga_ia_bertakbir_memuji_allah_dan_menyanjungnya_kemudian_membaca_al_quran_yang_mudah_baginya_hr_abu_daud_dan_hakim"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:justificationMode="inter_word"
+        android:text="@string/iftitah"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:justificationMode="inter_word"
+        android:text="@string/artinya_allah_maha_besar_dengan_sebesar_besarnya_segala_puji_bagi_allah_dengan_pujian_yang_banyak_maha_suci_allah_pada_waktu_pagi_dan_petang_sesungguhnya_aku_hadapkan_wajahku_kepada_allah_yang_telah_menciptakan_langit_dan_bumi_dengan_segenap_kepatuhan_atau_dalam_keadaan_tunduk_dan_aku_bukanlah_dari_golongan_orang_orang_yang_menyekutukan_nya_sesungguhnya_shalatku_ibadahku_hidup_dan_matiku_hanyalah_untuk_allah_tuhan_semesta_alam_yang_tidak_ada_sekutu_bagi_nya_dengan_yang_demikian_itulah_aku_diperintahkan_dan_aku_adalah_termasuk_orang_orang_muslim_orang_orang_yang_berserah_diri"
+        android:textSize="11sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="257dp"
+        android:layout_height="190dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:srcCompat="@drawable/bersedekap" />
+</androidx.constraintlayout.widget.ConstraintLayout>

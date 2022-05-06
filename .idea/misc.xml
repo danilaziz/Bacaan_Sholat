@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID STUDIO DOC/BacaanSholat/app/src/main/res/layout/activity_iftitah.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/BacaanSholat/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/BacaanSholat/app/src/main/res/layout/activity_qunut.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/BacaanSholat/app/src/main/res/layout/activity_rukuk.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/BacaanSholat/app/src/main/res/layout/activity_tentang_app.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_bacaan_sholat.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_iftitah.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_itidal.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_niat.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_qunut.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_rukuk.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_salam.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_sujud.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_tasyahudakhir.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/Bacaan_Sholat/app/src/main/res/layout/activity_tasyahudawal.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/drawable/radius.xml" value="0.2115" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/drawable/style.xml" value="0.2115" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/drawable/tombol_bulat.xml" value="0.2115" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/drawable/warna.xml" value="0.2115" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_bacaan.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_bacaan_sholat.xml" value="0.22" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_berdiri_tegak.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_bersedekap.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_doaIftitah.xml" value="0.19429347826086957" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_iftitah.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_itidal.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_jadwal_sholat.xml" value="0.22" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_niat.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_pengaturan.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_qunut.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_rukuk.xml" value="0.25" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_salam.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_sujud.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_takbiratul_ihram.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_tasyahudakhir.xml" value="0.33" />
+        <entry key="..\:/ANDROID STUDIO DOC/JadwalSholat/app/src/main/res/layout/activity_tasyahudawal.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

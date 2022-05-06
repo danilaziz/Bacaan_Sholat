@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".tasyahudawal">
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginStart="3sp"
+        android:justificationMode="inter_word"
+        android:text="اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ. اَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ. اَلسَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِيْنَ. أَشْهدُ اَنْ لاَإِلَهَ إِلاَّ اللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهِ"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView40" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DUDUK_TASYAHUD_AWAL"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:text="Duduk tahiyat awal dilakukan pada akhir rakaat kedua, dimana telapak kaki kanan tegak dan kaki kiri menjadi tumpuan tubuh"
+        android:layout_marginTop="20dp"
+        android:justificationMode="inter_word"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="283dp"
+        android:layout_height="218dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView39"
+        app:srcCompat="@drawable/awal" />
+
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="120dp"
+        android:text="Bacaan Tasyahud Awal"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.277"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:textSize="11sp"
+        android:textStyle="italic"
+        android:justificationMode="inter_word"
+        android:text="Artinya: Segala kehormatan, keberkahan, rahmat dan keselamatan, serta kebaikan hanyalah kepunyaan Allah. Keselamatan, rahmat, dan berkah dari Allah semoga tetap tercurah atasmu, wahai Nabi (Muhammad). Keselamatan, rahmat dan berkah dari Allah semoga juga tercurah atas kami, dan juga atas seluruh hamba Allah yang sholeh. Aku bersaksi bahwa tiada Tuhan selain Allah dan bahwa Muhammad adalah utusan Allah."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView44" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".qunut">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/doa_qunut"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="283dp"
+        android:layout_height="218dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        app:srcCompat="@drawable/qunut"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:text="@string/doaqunut"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="230dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:justificationMode="inter_word"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:text="@string/yang_artinya_ya_allah_tunjukkanlah_aku_sebagaimana_mereka_yang_telah_engkau_beri_petunjuk_berilah_kebaikan_kepadaku_sebagaimana_mereka_yang_telah_engkau_berikan_kebaikan_berilah_kekuatan_kepadaku_sebagaimana_yang_telah_engkau_berikan_kekuatan_berikanlah_keberkahan_kepadaku_pada_apa_apa_yang_telah_engkau_karuniakan_peliharalah_aku_dari_bahaya_kejahatan_yang_telah_engkau_tentukan_maka_sesungguhnya_engkaulah_yang_menentukan_hukuman_dan_tidak_kena_hukum_maka_sesungguhnya_tidak_hina_orang_yang_engkau_berikan_kekuasaan_dan_tidak_akan_mulia_orang_yang_engkau_musuhi_maha_suci_engkau_wahai_tuhan_kami_dan_maha_tinggi_engkau_bagimu_segala_pujian_di_atas_yang_engkau_pastikan_ampunilah_aku_aku_bertaubat_kepada_mu_dan_semoga_allah_mencurahkan_rahmat_dan_kesejahteraan_atas_junjungan_kami_nabi_muhammad_saw_keluarga_dan_sahabatnya"
+        android:justificationMode="inter_word"
+        android:textSize="11sp"
+        android:textStyle="italic"
+        android:layout_marginTop="13dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView36" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
